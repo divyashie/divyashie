@@ -22,7 +22,7 @@
  - 😄 Pronouns: She/her 
  - ⚡ Hobbies: Writing technical blogs, Snokerling, Cooking 
 
-![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=divyashie&theme=synthwave) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=divyashie&show_icons=true&theme=synthwave) 
+![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=divyashie&theme=synthwave)  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=divyashie&show_icons=true&theme=synthwave) 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
   
